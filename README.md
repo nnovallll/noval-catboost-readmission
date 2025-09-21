@@ -42,7 +42,7 @@ Modify the notebook as needed for your data or research. Follow the steps in the
 
 ## License
 
-This project currently does not have a license.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ---
 Created by [nnovallll](https://github.com/nnovallll)
